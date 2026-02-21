@@ -1,0 +1,2 @@
+# live-affiliate-dashboard-deployment---api-integration-bridge
+I will deploy the completed affiliate optimization dashboard (HTML/CSS/JS) via Firebase Hosting to create a live, accessible URL. Simultaneously, I will containerize and schedule the core Python optimization script to run periodically, connecting its output to the live dashboard via a simple API bridge, creating a fully operational feedback loop.
